@@ -10,6 +10,7 @@ export default function Home() {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>Hello, I'm <b>Victor</b>, I'm software enginer and athlete. You can contact me on <a href="https://twitter.com/victorarroba">Twitter</a>.</p>
+        <p>Right now working at increnta.com</p>
       </section>
     </Layout>
   )
